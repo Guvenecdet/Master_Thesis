@@ -1,0 +1,225 @@
+measurement_time,measurement_id,measurement_name,participant_id,participant_started_at,invite_code,current_day_of_study,current_intervention_id,current_intervention_name,survey1_id,survey1_name,is_survey1,survey1_question1_id,survey1_question1_text,survey1_question1_response,survey1_question2_id,survey1_question2_text,survey1_question2_response,survey1_question3_id,survey1_question3_text,survey1_question3_response,survey1_question4_id,survey1_question4_text,survey1_question4_response,survey2_id,survey2_name,is_survey2,survey2_question1_id,survey2_question1_text,survey2_question1_response,survey2_question2_id,survey2_question2_text,survey2_question2_response
+2025-05-06 19:04:55.070823Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,15,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,3
+2025-05-06 19:04:43.498499Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,15,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",3,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,6,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-05-05 19:59:24.436506Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,14,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",3,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,6,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-05-05 19:59:07.398882Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,14,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,5
+2025-05-04 20:05:16.865322Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,13,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,5
+2025-05-04 20:05:06.348937Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,13,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,8,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-05-03 19:39:42.748626Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,12,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-05-03 19:39:26.379330Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,12,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,6
+2025-05-02 19:03:31.791313Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,11,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-05-02 19:03:12.235073Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,11,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,7
+2025-05-01 19:02:19.161051Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,10,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,3,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,4
+2025-05-01 19:02:09.560138Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,10,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",3,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-30 19:41:19.771955Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,9,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,5
+2025-04-30 19:41:12.249123Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,9,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-29 19:00:58.440266Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,8,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,8
+2025-04-29 19:00:49.007708Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,8,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",9,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",8,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-28 19:11:16.003533Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,7,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,8
+2025-04-28 19:11:08.727474Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,7,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",8,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-27 19:06:55.290556Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,6,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,7,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,8
+2025-04-27 19:06:45.068879Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,6,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",9,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",6,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-26 20:38:04.912009Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,5,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,9
+2025-04-26 20:37:58.402229Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,5,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",9,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",7,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-25 19:12:23.056931Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,4,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,8
+2025-04-25 19:12:15.080775Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,4,5c65f584-012e-4c53-9938-e0c7c95e270c,Not watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",7,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-24 19:00:50.686994Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,3,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",3,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,8,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-24 19:00:20.565885Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,3,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,4
+2025-04-23 19:03:15.321683Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,2,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,5
+2025-04-23 19:02:29.754987Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,2,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,7,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-22 19:02:55.012903Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,1,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,7
+2025-04-22 19:02:35.226909Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,1,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,7,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
+2025-04-21 20:06:06.910240Z,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,0,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,7
+2025-04-21 20:05:41.544977Z,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,9c65b92d-9a1d-4536-8653-e02444533f4d,2025-04-20 22:00:00.000Z,,0,9fee3457-2e6a-4bc5-b5d9-d00fdfff67a5,Watching comedy movies or series!,433e7001-cf09-45b4-b961-86fe4ef5c231,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? 
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow?
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,7,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (not watching comedy)? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,5e40eb48-b22c-4682-8f26-62f6422cf936,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did thinking about the future stress you out today? ,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did thinking too much stress you out today?,
