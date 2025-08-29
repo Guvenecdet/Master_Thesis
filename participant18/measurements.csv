@@ -1,0 +1,257 @@
+measurement_time,measurement_id,measurement_name,participant_id,participant_started_at,invite_code,current_day_of_study,current_intervention_id,current_intervention_name,survey1_id,survey1_name,is_survey1,survey1_question1_id,survey1_question1_text,survey1_question1_response,survey1_question2_id,survey1_question2_text,survey1_question2_response,survey1_question3_id,survey1_question3_text,survey1_question3_response,survey1_question4_id,survey1_question4_text,survey1_question4_response,survey2_id,survey2_name,is_survey2,survey2_question1_id,survey2_question1_text,survey2_question1_response,survey2_question2_id,survey2_question2_text,survey2_question2_response
+2025-05-03 20:07:41.029957Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,15,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,4
+2025-05-03 20:07:34.461837Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,15,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",8,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-05-02 19:09:14.943888Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,14,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-05-02 19:09:02.323826Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,14,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",7,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",5,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-05-01 19:01:42.225883Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,13,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,3
+2025-05-01 19:01:36.580306Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,13,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",3,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",3,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-30 19:07:07.757318Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,12,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,4
+2025-04-30 19:07:02.175044Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,12,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",4,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-29 19:12:51.716751Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,11,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-04-29 19:12:47.984165Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,11,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-28 19:00:50.440161Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,10,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-04-28 19:00:45.612091Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,10,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-27 19:08:08.222107Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,9,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-04-27 19:08:04.631230Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,9,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-26 19:07:59.198634Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,8,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-04-26 19:07:53.857066Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,8,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-25 19:59:17.974045Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,7,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,7,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-04-25 19:59:08.919366Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,7,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-24 19:08:15.331868Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,6,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,7,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,8
+2025-04-24 19:08:05.108968Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,6,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-23 20:36:03.556327Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,5,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,7,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,7
+2025-04-23 20:35:57.556775Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,5,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-22 19:16:36.660462Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,4,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,10,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,10
+2025-04-22 19:16:13.262522Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,4,f1dfda6d-d7b0-43ac-95d3-f45d0cab96a0,Not reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",8,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",8,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-21 21:34:30.911785Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,3,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,7,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,6
+2025-04-21 21:34:18.330483Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,3,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",7,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-20 19:00:52.710652Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,2,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",8,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-20 19:00:27.616432Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,2,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,5
+2025-04-19 20:23:29.957795Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,1,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,6
+2025-04-19 20:23:12.692557Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,1,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",8,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
+2025-04-18 20:07:34.277991Z,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,0,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,7,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,7
+2025-04-18 20:07:08.107106Z,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,3293c98b-2c5c-4b0e-979e-4301d4867a61,2025-04-17 22:00:00.000Z,,0,57fbc5b5-c796-4d77-a1c6-90f5941d443b,Reading books!,2bd4ba29-4a3a-4a41-aef9-3aad6fc261be,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Your stress level today? <b>(1 = Very low to 10 = Very high)</b>
+
+",7,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"Expected stress tomorrow? <b>(1 = Very low to 10 = Very high)</b>
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,"How much did this method (<i>reading a book</i>) help you today? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have read a book!)</i></b>
+",8,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"Did you have difficulty without the method (<i>not reading a book</i>)? <b>(1 = No difficulty to 5 = Significant difficulty) <i>(Answer ONLY if you have NOT read the book!)</i></b>
+",1,158c41fb-defa-4f73-b126-c8741e44939f,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,Did no social contact stress you out today? <b>(1 = Not at all to 10 = A lot)</b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,Did money stuff stress you out today? <b>(1 = Not at all to 10 = Extremely)</b>,
