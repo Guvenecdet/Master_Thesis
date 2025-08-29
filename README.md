@@ -1,2 +1,2 @@
-# Master_Thesis
+# Implementing N-of-1 Trials for Personalized Stress Management through User-Driven Choices in Everyday Life 
 This repository contains Jupyter Notebook (.ipynb) scripts from my master’s thesis, which aims to explore the feasibility of personalized N-of-1 trials in stress management. Each participant’s data is analyzed separately with Descriptive Outcomes, OLS vs GLSAR, and Bayesian autoregressive models.
