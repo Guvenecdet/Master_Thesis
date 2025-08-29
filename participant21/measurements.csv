@@ -1,0 +1,271 @@
+measurement_time,measurement_id,measurement_name,participant_id,participant_started_at,invite_code,current_day_of_study,current_intervention_id,current_intervention_name,survey1_id,survey1_name,is_survey1,survey1_question1_id,survey1_question1_text,survey1_question1_response,survey1_question2_id,survey1_question2_text,survey1_question2_response,survey1_question3_id,survey1_question3_text,survey1_question3_response,survey1_question4_id,survey1_question4_text,survey1_question4_response,survey2_id,survey2_name,is_survey2,survey2_question1_id,survey2_question1_text,survey2_question1_response,survey2_question2_id,survey2_question2_text,survey2_question2_response
+2025-06-04 18:10:00.211030Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,15,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",4,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",2,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,4,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-06-04 18:09:41.181537Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,15,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,3
+2025-06-03 18:00:21.224403Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,14,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,3
+2025-06-03 18:00:16.584077Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,14,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",4,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,5,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-06-02 18:09:44.197646Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,13,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-06-02 18:09:33.750061Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,13,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,6
+2025-06-01 20:02:57.815555Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,12,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,3,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,4
+2025-06-01 20:02:49.713274Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,12,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",3,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",3,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-31 18:00:25.661586Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,11,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,4
+2025-05-31 18:00:17.056403Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,11,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",3,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-30 18:01:59.081771Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,10,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-30 18:01:45.457080Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,10,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,4
+2025-05-29 18:12:05.781879Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,9,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,4
+2025-05-29 18:11:57.348842Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,9,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-28 18:02:22.131711Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,8,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,6
+2025-05-28 18:01:48.722267Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,8,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",5,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",5,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",5,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-27 18:08:59.903249Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,7,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,5,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,5
+2025-05-27 18:08:50.063597Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,7,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",5,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-26 19:12:44.203679Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,6,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,7
+2025-05-26 19:12:31.627348Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,6,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",5,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-25 18:00:51.314321Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,5,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",2,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",2,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-25 18:00:19.759120Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,5,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,2,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,4
+2025-05-24 20:24:05.218938Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,4,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,4,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,6
+2025-05-24 20:23:44.357478Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,4,1ed4ca9f-e6fb-4c53-b2ac-be9b95f096ce,Not watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",2,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,1,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",5,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-23 18:27:14.117Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,3,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",7,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,5,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",1,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-23 18:26:36.524690Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,3,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,6
+2025-05-22 18:28:22.071802Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,2,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,6,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,4
+2025-05-22 18:28:06.198586Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,2,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",6,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",8,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,5,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",6,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
+2025-05-21 18:19:36.577468Z,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,1,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,false,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,true,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,8,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,3
+2025-05-21 18:06:17.063133Z,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,aae6297e-36b6-4e6d-949b-5fb33d6d5966,2025-05-19 21:00:00.000Z,,1,ed726f42-04f5-4460-a0e0-b85425d45c3c,Watching comedy movies or series!,37fdb0a7-aae6-4dbb-96de-56b9a390d7b8,Outcome,true,9f5424f4-f23c-49ee-baa8-77d96a62552d,"Overall, how stressful was your day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+",7,538ce40a-2d9f-4e77-843f-c429b9a6e0b8,"What level of stress do you expect for the next day? <b>(1 = Not stressful at all to 10 = Extremely stressful)<b>
+
+
+
+",6,e66d6b15-e85e-45fd-822c-217e8e96fa68,How much did this method (watching comedy) help you feel better about yourself? <b>(1 = Not helpful at all to 10 = Very helpful) <i>(Answer ONLY if you have watched a comedy movie or series!)</i></b>,6,db6e7cf1-33ba-4222-8dc7-53d98d0643ba,"When you are not practicing the method (not watching comedy) today, do you feel a lack or difficulty managing your stress? <b>(1 = No difficulty to 10 = Significant difficulty) <i>(Answer ONLY if you have NOT watched a comedy movie or series!)</i></b>
+",4,b19f13bc-180d-4d50-9cb3-25e29a711a13,Mediators,false,e1e6ff2f-3524-49ae-9a21-35c2fb37f22c,How much did your work intensity stress you out today? <b>(1 = Not stressful at all to 10 = Super stressful)<b>,,9a3579bf-c4bd-430a-9ce7-4d5e9fad6397,How much stress did you feel today because of financial problems? <b>(1 = None at all to 10 = Very high)<b>,
